@@ -1,0 +1,20 @@
+i img{
+    width: 100%;
+}
+
+.navbar-nav.bg-gradient-primary
+{
+    background-image: url(resources/img/Picture7.png);
+}
+
+.dropdown-item.text-center{
+    padding: 1em;
+}
+
+.row.no-gutters{
+    color: white;
+}
+
+.card-body.img{
+    width: 100%;
+}
